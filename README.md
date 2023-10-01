@@ -1,4 +1,4 @@
 - An animal-themed hangman game.
 - Developed my Python skills in Variables, Control Flow, Lists, and Libraries.
-- Learnt the process of game development and customization.
+- Learned the process of game development and customization.
 - Independently made with some assistance from the Department of Computer Science and Engineering at Texas A&M University.
